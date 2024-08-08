@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/100abrahamemmanuel.github.io/static/css/main.cd4c5b49.css",
+    "main.js": "/100abrahamemmanuel.github.io/static/js/main.aaab4621.js",
+    "static/media/slidingpuzzle.svg": "/100abrahamemmanuel.github.io/static/media/slidingpuzzle.dfbd5bdd7535e7f7a970.svg",
+    "static/media/SNAKE2.PNG": "/100abrahamemmanuel.github.io/static/media/SNAKE2.0cfade09a6a8b64a83ab.PNG",
+    "static/media/memoryjs.svg": "/100abrahamemmanuel.github.io/static/media/memoryjs.5f893deb218a4fe8bcad.svg",
+    "static/media/home-icon.svg": "/100abrahamemmanuel.github.io/static/media/home-icon.7b105de55495716658e97805978ac892.svg",
+    "static/media/AllTheWayToTheSun-o2O0.ttf": "/100abrahamemmanuel.github.io/static/media/AllTheWayToTheSun-o2O0.a8b10fcd2d5005b34103.ttf",
+    "static/media/capturesimon.svg": "/100abrahamemmanuel.github.io/static/media/capturesimon.e30799764b23fb7fb772.svg",
+    "static/media/watersort.svg": "/100abrahamemmanuel.github.io/static/media/watersort.252b9a37d1f69eed25b3.svg",
+    "static/media/capture2048.svg": "/100abrahamemmanuel.github.io/static/media/capture2048.e42db4ab98775141a179.svg",
+    "static/media/coloron.svg": "/100abrahamemmanuel.github.io/static/media/coloron.8b1b6b493321af5caaf5.svg",
+    "static/media/gibbet-svgrepo-com.svg": "/100abrahamemmanuel.github.io/static/media/gibbet-svgrepo-com.d4f51a9131161a0c858e.svg",
+    "index.html": "/100abrahamemmanuel.github.io/index.html",
+    "main.cd4c5b49.css.map": "/100abrahamemmanuel.github.io/static/css/main.cd4c5b49.css.map",
+    "main.aaab4621.js.map": "/100abrahamemmanuel.github.io/static/js/main.aaab4621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4c5b49.css",
+    "static/js/main.aaab4621.js"
+  ]
+}
